@@ -1,0 +1,298 @@
+.container{
+    width: 100%;
+    font-size: 16px;
+    margin: 0 auto;
+}
+.nav{
+    background-color: blue;
+    color: white;
+    display: flex;
+    font-size: 19px;
+}
+.nav div{
+    margin-left: 100px;
+}
+.nav li{
+    color: white;
+}
+.nav2{
+    display: flex;
+    background: #E9E9E9;
+    padding: 20px;
+    font-size: 22px;
+}
+.nav2 div{
+    text-align: center;
+}
+.nav3{
+     background: #012147;
+     color: white;
+     display: flex;
+     width: 100%;
+}
+.nav4{
+    display: flex;
+    background: #E9E9E9;
+}
+.nav5{
+    margin-left: 49px;
+    font-size: 22px;
+    margin-bottom: 40px;
+}
+.nav5 a{
+    border: 1px solid #007bff;
+    background: #007bff;
+    color: white;
+    border-radius: 12px;
+    padding: 12px;
+}
+ul li{
+    display: inline;
+    padding: 12px;
+   
+}
+.qqq{
+     background-color: #293352;
+     color: white;
+     padding: 35px;
+}
+.faculities{
+    background-color:B3DDD2 ;
+    display: flex;
+    font-size: 23px;
+}
+.box1{
+    margin: 30px 30px;
+    width: 100%;
+
+}
+.box3{
+    text-align: center;
+    width: 33%;
+    padding: 64px;
+    margin: 30px 30px;
+}
+.box3 i{
+    font-size: 69px;
+}
+button{
+    background: blue;
+    color: white;
+    padding: 16px;
+    border-radius: 26px;
+}
+div a{
+    text-decoration: none;
+}
+.logo img{
+    height: 71px;
+}
+.news{
+    background: #B3DDD2;
+}
+.ppp{
+    background-color: #B3DDD2;
+    padding: 12px;
+    text-align: center;
+    font-size: 19px;
+}
+.carrer{
+    background: #E9E9E9;;
+    padding: 137px;
+    width: 100%;
+}
+.carrer h2 {
+    text-align: center;
+}
+.carrer p{
+    text-align: center;
+}
+.carrer1{
+    background: #D4EEC9;
+     width: 78%;
+    
+}
+.carrer2{
+    background: #293352;
+    text-align: center;
+    color: white;
+    padding: 12px;
+    margin: 31px 31px;
+}
+.carrer3{
+    display: flex;
+    width: 78%;
+}
+.alumni{
+    background-color:#E9E9E9;
+    width: 100%;
+    padding: 56px;
+}
+.al1{
+    width: 50%;
+    background-color:#293352 ;
+    color: white;
+    text-align: center;
+    margin: 12px 319px;
+    padding: 18px;
+}
+.al2{
+    width: 80%;
+    background-color:#293352 ;
+    color: white;
+    text-align: center;
+    margin: 10px 141px;
+    padding: 18px;
+
+}
+.nnn{
+    display: flex;
+    margin: 20px 68px;
+}
+.nnn img{
+    width: 95%;
+}
+.nnn p{
+    text-align: center;
+}
+.nnn1 a{
+    border: 1px solid #6c757d;
+    padding: 12px;
+    background-color: #6c757d;
+    color: white;
+}
+.nnn2{
+    display: flex;
+    margin: 43px 61px;
+    padding: 15px;
+}
+.nnn2 div{
+    width: 50%;
+}
+.box6{
+    width: 23%;
+
+}
+.ppp a{
+    border: 1px solid;
+    width: 125px;
+    color: 6c757d;
+    padding: 12px;
+    font-size: 21px;
+}
+.ppp1{
+    background-color: #293352;
+    padding: 12px;
+    text-align: center;
+    color: white;
+
+}
+.ppp1 a{
+    border: 1px solid;
+    width: 125px;
+    color: 6c757d;
+    padding: 12px;
+    font-size: 21px
+}
+.ppp1 :hover{
+    background-color: white;
+}
+.news{
+    display: flex;
+    background-color: B3DDD2;
+}
+.box{
+    box-shadow: 10px 10px 15px rgb(73 78 92 /100%);
+    padding: 50px;
+   text-align: center;
+   background-color: white;
+   margin: 65px 67px;
+}
+.box img{
+    width: 100%;
+}
+.events{
+    display: flex;
+    background-color:293352 ;
+}
+.events div{
+    width: 25%;
+   margin: 71px 20px;
+   background-color: white;
+   text-align: center;
+}
+.events img{
+    width: 100%;
+}
+.events p{
+    color: #908264;
+    font-size: 22px;
+}
+.box4{
+    width: 25%;
+    padding: 64px;
+    margin: 30px 30px;
+    background-color: white;
+}
+.box5{
+    width: 25%;
+    padding: 64px;
+    margin: 30px 30px;
+    background-color: white;
+    align-items: center;
+
+}
+.box5 img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-left: 32px;
+}
+.leader{
+    display: flex;
+    background-color:#B3DDD2;
+}
+.form{
+    display: flex;
+}
+.strategic{
+    display: flex;
+    margin: 20px 79px;
+}
+.box9{
+    border: 1px solid;
+    width: 50%;
+    text-align: center;
+}
+.box10{
+    border: 1px solid;
+    width: 40%;
+    text-align: center;
+}
+.about{
+    display: flex;
+    font-size: 17px;
+}
+.about div{
+    margin: 12px 78px;
+}
+
+footer{
+    background-color: #111111;
+    color: #BAC5C6;
+    font-size: 20px;
+}
+
+.fff{
+    display: flex;
+}
+footer div{
+    margin: 30px 30px;
+}
+.fff1{
+    display: flex;
+    background-color: #000;
+    color: #BAC5C6;
+    margin: 0 0;
+    font-size: 15px;
+}
